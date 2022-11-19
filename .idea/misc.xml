@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/drawable/card_bac.xml" value="0.1945" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/drawable/ic_circle.xml" value="0.1" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.192" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.159" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/drawable/ic_person.xml" value="0.159" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/drawable/search_bac.xml" value="0.1385" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/aaa.xml" value="0.3625" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/aaas.xml" value="0.3625" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/fragment_dashboard.xml" value="0.17256011315417255" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/fragment_fruit.xml" value="0.2" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/fragment_home.xml" value="0.29061224489795917" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/fragment_notifications.xml" value="0.31202046035805625" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/fragment_other.xml" value="0.1" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/fragment_part.xml" value="0.23100303951367782" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/fragment_person.xml" value="0.1" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/fragment_rating.xml" value="0.33" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/fragment_top.xml" value="0.33061594202898553" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/fragment_type.xml" value="0.3625" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/fragment_vegetable.xml" value="0.1" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/rvitem.xml" value="0.5" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/rvitem2.xml" value="0.33" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/rvitem3.xml" value="0.5" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/rvitem_owner.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/rvitem_part.xml" value="0.3625" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/layout/rvitem_top.xml" value="0.5" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/j.shoyimov/AndroidStudioProjects/MarketPrices1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1935" />
+        <entry key="app/src/main/res/drawable-v24/bac_sms_item_yellow.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_phone_white.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable-v24/ic_sms_wite.xml" value="0.1255" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/fragment_fruit.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.16983695652173914" />
+        <entry key="app/src/main/res/layout/fragment_part.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/fragment_rating.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/fragment_top.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/my_fragment_devise.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/my_fragment_fruit.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/my_fragment_poly.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/my_fragment_vegetable.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/rvitem_owner.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/rvitem_top.xml" value="0.19384057971014493" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

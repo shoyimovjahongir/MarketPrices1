@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.marketprices1.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/partFragment"
+        android:name="com.example.marketprices1.ui.part.PartFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_part" />
+
+    <fragment
+        android:id="@+id/navigation_fruit"
+        android:name="com.example.marketprices1.ui.home.FruitFragment"
+        android:label="Fruit"
+        tools:layout="@layout/fragment_fruit"/>
+    <fragment
+        android:id="@+id/ratingFragment"
+        android:name="com.example.marketprices1.ui.rating.RatingFragment"
+        android:label="fragment_rating"
+        tools:layout="@layout/fragment_rating" />
+    <fragment
+        android:id="@+id/topFragment"
+        android:name="com.example.marketprices1.ui.home.TopFragment"
+        android:label="fragment_top"
+        tools:layout="@layout/fragment_top" />
+
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.example.marketprices1.ui.search.SearchFragment"
+        android:label="fragment_dashboard"
+        tools:layout="@layout/fragment_search" />
+    <fragment
+        android:id="@+id/myFruitFragment"
+        android:name="com.example.marketprices1.ui.home.MyFruitFragment"
+        android:label="my_fragment_fruit"
+        tools:layout="@layout/my_fragment_fruit" />
+    <fragment
+        android:id="@+id/myVegetableFragment"
+        android:name="com.example.marketprices1.ui.home.MyVegetableFragment"
+        android:label="my_fragment_vegetable"
+        tools:layout="@layout/my_fragment_vegetable" />
+    <fragment
+        android:id="@+id/myDeviseFragment"
+        android:name="com.example.marketprices1.ui.home.MyDeviseFragment"
+        android:label="my_fragment_devise"
+        tools:layout="@layout/my_fragment_devise" />
+    <fragment
+        android:id="@+id/myPolyFragment"
+        android:name="com.example.marketprices1.ui.home.MyPolyFragment"
+        android:label="my_fragment_poly"
+        tools:layout="@layout/my_fragment_poly" />
+</navigation>

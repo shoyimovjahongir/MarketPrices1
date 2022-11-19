@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        tools:context=".ui.search.SearchFragment">
+
+
+<!--    <com.arlib.floatingsearchview.FloatingSearchView-->
+<!--        android:id="@+id/floating_search_view"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:background="@drawable/bg_tab_degraded"-->
+<!--        app:floatingSearch_searchBarMarginLeft="@dimen/margin_20"-->
+<!--        app:floatingSearch_searchBarMarginTop="@dimen/margin_5"-->
+<!--        app:floatingSearch_searchBarMarginRight="@dimen/margin_20"-->
+<!--        app:floatingSearch_searchHint="Search..."-->
+<!--        app:floatingSearch_suggestionsListAnimDuration="250"-->
+<!--        app:floatingSearch_showSearchKey="false"-->
+<!--        app:floatingSearch_leftActionMode="showSearch"-->
+<!--        app:floatingSearch_menu="@menu/main"-->
+<!--        app:floatingSearch_close_search_on_keyboard_dismiss="true"/>-->
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:background="@color/purple_500"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/search"
+        android:background="@drawable/search_bac"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        />
+
+
+</LinearLayout>
+
+<!--    <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:background="#03B1FF">-->
+
+<!--            &lt;!&ndash;        <EditText&ndash;&gt;-->
+<!--            &lt;!&ndash;            android:padding="10dp"&ndash;&gt;-->
+<!--            &lt;!&ndash;            android:background=""&ndash;&gt;-->
+<!--            &lt;!&ndash;            android:hint="Search"&ndash;&gt;-->
+<!--            &lt;!&ndash;            android:layout_width="match_parent"&ndash;&gt;-->
+<!--            &lt;!&ndash;            android:layout_height="wrap_content"/>&ndash;&gt;-->
+
+
+<!--            <com.google.android.material.textfield.TextInputLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_margin="10dp"-->
+<!--                android:background="@color/white"-->
+<!--                app:startIconContentDescription="Search"-->
+<!--                app:startIconDrawable="@drawable/ic_search">-->
+
+<!--                <com.google.android.material.textfield.TextInputEditText-->
+<!--                    android:id="@+id/et"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content" />-->
+
+<!--            </com.google.android.material.textfield.TextInputLayout>-->
+
+<!--        </LinearLayout>-->
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_search"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+            app:spanCount="2"
+            android:layout_marginBottom="?actionBarSize"
+            tools:listitem="@layout/rvitem_owner">
+
+
+        </androidx.recyclerview.widget.RecyclerView>
+    </LinearLayout>
+
+
+
+
+

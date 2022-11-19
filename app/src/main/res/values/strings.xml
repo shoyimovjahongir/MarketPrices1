@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bozor narxlari</string>
+    <string name="title_home">Asosiy</string>
+    <string name="title_dashboard">Qidiruv</string>
+    <string name="title_notifications">Bo\'limlar</string>
+    <string name="accaunt">Ko’rsatkich</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="uzb">  \n O`ZBEKISTON RESPUBLIKASI \n DAVLAT STATISTIKA QO`MITASI</string>
+    <string name="ko_rsatkich">Ko\'rsatkich</string>
+</resources>
